@@ -1,0 +1,15 @@
+/Users/tranhoang/Desktop/education/dp-report/notification/obj/Debug/net5.0/notification.csproj.AssemblyReference.cache
+/Users/tranhoang/Desktop/education/dp-report/notification/obj/Debug/net5.0/notification.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tranhoang/Desktop/education/dp-report/notification/obj/Debug/net5.0/notification.AssemblyInfoInputs.cache
+/Users/tranhoang/Desktop/education/dp-report/notification/obj/Debug/net5.0/notification.AssemblyInfo.cs
+/Users/tranhoang/Desktop/education/dp-report/notification/obj/Debug/net5.0/notification.csproj.CoreCompileInputs.cache
+/Users/tranhoang/Desktop/education/dp-report/notification/bin/Debug/net5.0/notification.deps.json
+/Users/tranhoang/Desktop/education/dp-report/notification/bin/Debug/net5.0/notification.runtimeconfig.json
+/Users/tranhoang/Desktop/education/dp-report/notification/bin/Debug/net5.0/notification.runtimeconfig.dev.json
+/Users/tranhoang/Desktop/education/dp-report/notification/bin/Debug/net5.0/notification.dll
+/Users/tranhoang/Desktop/education/dp-report/notification/bin/Debug/net5.0/ref/notification.dll
+/Users/tranhoang/Desktop/education/dp-report/notification/bin/Debug/net5.0/notification.pdb
+/Users/tranhoang/Desktop/education/dp-report/notification/obj/Debug/net5.0/notification.dll
+/Users/tranhoang/Desktop/education/dp-report/notification/obj/Debug/net5.0/ref/notification.dll
+/Users/tranhoang/Desktop/education/dp-report/notification/obj/Debug/net5.0/notification.pdb
+/Users/tranhoang/Desktop/education/dp-report/notification/obj/Debug/net5.0/notification.genruntimeconfig.cache

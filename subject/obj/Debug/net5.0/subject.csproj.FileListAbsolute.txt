@@ -1,0 +1,15 @@
+/Users/tranhoang/Desktop/education/dp-report/subject/obj/Debug/net5.0/subject.csproj.AssemblyReference.cache
+/Users/tranhoang/Desktop/education/dp-report/subject/obj/Debug/net5.0/subject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tranhoang/Desktop/education/dp-report/subject/obj/Debug/net5.0/subject.AssemblyInfoInputs.cache
+/Users/tranhoang/Desktop/education/dp-report/subject/obj/Debug/net5.0/subject.AssemblyInfo.cs
+/Users/tranhoang/Desktop/education/dp-report/subject/obj/Debug/net5.0/subject.csproj.CoreCompileInputs.cache
+/Users/tranhoang/Desktop/education/dp-report/subject/bin/Debug/net5.0/subject.deps.json
+/Users/tranhoang/Desktop/education/dp-report/subject/bin/Debug/net5.0/subject.runtimeconfig.json
+/Users/tranhoang/Desktop/education/dp-report/subject/bin/Debug/net5.0/subject.runtimeconfig.dev.json
+/Users/tranhoang/Desktop/education/dp-report/subject/bin/Debug/net5.0/subject.dll
+/Users/tranhoang/Desktop/education/dp-report/subject/bin/Debug/net5.0/ref/subject.dll
+/Users/tranhoang/Desktop/education/dp-report/subject/bin/Debug/net5.0/subject.pdb
+/Users/tranhoang/Desktop/education/dp-report/subject/obj/Debug/net5.0/subject.dll
+/Users/tranhoang/Desktop/education/dp-report/subject/obj/Debug/net5.0/ref/subject.dll
+/Users/tranhoang/Desktop/education/dp-report/subject/obj/Debug/net5.0/subject.pdb
+/Users/tranhoang/Desktop/education/dp-report/subject/obj/Debug/net5.0/subject.genruntimeconfig.cache
